@@ -1,10 +1,10 @@
 Gasto Clientes Tienda_Surf:
 
-Alberto Amigo: 500euros
-Borja Bayolo: 893euros
-Casemiro Casares: 2000euros
-Daniel Travieso: 150euros
-Eva Estrada: 45euros
-Fabio Fernández: 548euros
-Gael González: 1659euros
+Alberto Amigo: 500euros - muy contento
+Borja Bayolo: 893euros - bastante contento
+Casemiro Casares: 2000euros - contentisimo
+Daniel Travieso: 150euros - muy contento
+Eva Estrada: 45euros - contenta, dejo una sugerencia
+Fabio Fernández: 548euros - contento
+Gael González: 1659euros - bastante contento
 
