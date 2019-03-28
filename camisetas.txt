@@ -1,0 +1,7 @@
+Camisetas Tienda_Surf:
+
+Camiseta manga_corta: 12euros
+Camiseta manga_larga: 15euros
+Camiseta tirantes: regalo_fidelizacion
+Camiseta estampadas: 15euros
+
